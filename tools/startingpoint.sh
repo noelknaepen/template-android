@@ -17,3 +17,5 @@ if checkbin; then
 else
     su android -c "/opt/tools/android-sdk-update.sh $1"
 fi
+CameraCameras /micropmicrophone uuse
+AlAll ports
